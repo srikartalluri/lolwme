@@ -33,10 +33,10 @@ function SidebarHorizon(props: { routes: IRoute[]; [x: string]: any }) {
         <Links routes={routes} />
       </ul>
 
-      {/* Free Horizon Card */}
+      {/* Free Horizon Card
       <div className="flex justify-center">
         <SidebarCard />
-      </div>
+      </div> */}
 
       {/* Nav item end */}
     </div>
