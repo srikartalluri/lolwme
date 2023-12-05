@@ -19,6 +19,12 @@ const routes = [
     icon: <MdHome className="h-6 w-6" />,
   },
   {
+    name: 'LoL',
+    layout: '/admin',
+    path: 'lol',
+    icon: <MdHome className="h-6 w-6" />,
+  },
+  {
     name: 'NFT Marketplace',
     layout: '/admin',
     path: 'nft-marketplace',
